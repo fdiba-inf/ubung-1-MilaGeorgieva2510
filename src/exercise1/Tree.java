@@ -7,8 +7,8 @@ public class Tree {
         System.out.println("   ***");
         System.out.println("  *****");
         System.out.println(" *******");
-        System.out.println("********* ");
-        System.out.println("   *** ");
+        System.out.println("*********");
+        System.out.println("   ***");
     }
 
 }
